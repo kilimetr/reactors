@@ -1,2 +1,2 @@
 # reactors
-reactors mix
+reactors mix some scripts can be physically incorrect
